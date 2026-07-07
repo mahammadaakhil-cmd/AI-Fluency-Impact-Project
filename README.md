@@ -99,8 +99,8 @@ https://your-username.github.io/AI-Fluency-Impact-Project/
 **Shaik Mahammad Aakhil**
 
 - GitHub: https://github.com/mahammadaakhil-cmd
-- LinkedIn: Add your LinkedIn profile link
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/shaikmahammadaakhil/?skipRedirect=true
+- Email:smdaakhil@gmail.com
 
 ---
 
